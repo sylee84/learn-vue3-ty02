@@ -1,4 +1,4 @@
-# [FeDev] Hiconsy Design-System
+# learn vue3
 
 [![Build Status](https://travis-ci.org/codecentric/springboot-sample-app.svg?branch=master)](https://travis-ci.org/codecentric/springboot-sample-app)
 [![Maven](https://img.shields.io/maven-central/v/software.amazon.awssdk/s3.svg?label=Maven)](https://search.maven.org/search?q=g:%22software.amazon.awssdk%22%20AND%20a:%22s3%22)
@@ -10,13 +10,6 @@
 - [프로젝트 설명](#프로젝트-설명)
 - [기술 스택](#기술-스택)
 - [참여자 :star1:](#참여자-:star1:)
-
-## 프로젝트 설명
-
-Hiconsy DesignSystem & Style Guid Template :
-
-> DesignSystem URL : [Figma Link](https://www.figma.com/file/ybh85bNUoEcU220J54ucDW/%E2%98%85-Hiconsy-Design-System-1.0?node-id=1961%3A11127&t=up0DhKZmNcC5wOpU-1)  
-> Develop URL : [HTML Link](https://fedev.hiconsysvc.com/design-system)
 
 ## 기술 스택
 
